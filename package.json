@@ -1,6 +1,6 @@
 {
   "name": "babel-object-restructuring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Babel Plugin to create new objects that are a subset of an existing object",
   "main": "index.js",
   "repository": {
