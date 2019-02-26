@@ -1,0 +1,23 @@
+{
+  "name": "babel-object-restructuring",
+  "version": "1.0.0",
+  "description": "A Babel Plugin to create new objects that are a subset of an existing object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jacobparis/babel-object-restructuring.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "destructure",
+    "restructure",
+    "object"
+  ],
+  "author": "Jacob Paris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobparis/babel-object-restructuring/issues"
+  },
+  "homepage": "https://github.com/jacobparis/babel-object-restructuring#readme"
+}
